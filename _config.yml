@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Demos Negash"
-  pronouns         : # example: "she/her"  
+  pronouns         : # he/him
   bio              : "I am a PhD student interested in the development and application of methods to understand materials and molecules"
   location         : "Berkeley, California"
-  employer         : "University of California, Berkeley"
+  employer         : "UC Berkeley & LBNL"
   uri              : # URL
   email            : "demos_negash@berkeley.edu" 
 
@@ -41,7 +41,6 @@ author:
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-7604-3539"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
